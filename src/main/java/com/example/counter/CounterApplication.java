@@ -10,6 +10,7 @@ public class CounterApplication {
 
 		SpringApplication.run(CounterApplication.class, args);
 	}
+	//documentation
 	//http://localhost:8080/swagger-ui/index.html
 
 }
